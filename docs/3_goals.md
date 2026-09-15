@@ -7,11 +7,21 @@ mermaid: true
 
 {:.no_toc}
 
-# Design Principles
- - Goal: do something useful for science AND for WWV/H’s prime customers of time and frequency. (WWV/H is an operational service of NIST Time and Frequency division.)
- - Primum non nocere: First, do no harm.  Avoid disturbing existing WWV/H use cases, including listening comfort, at all costs.
- - Where possible, identify opportunities to increase utility for existing users outside of geospace
- - What science question can we focus on by doing something more than we already have today?
-
-<img width="1913" height="312" alt="image" src="https://github.com/user-attachments/assets/b7d0f730-db65-4f97-a833-bea8cecd1adf" />
+# Research Threads
+## Ongoing PSWS Doppler collection
+Grape 2 stations deployed!
+DASI Grant – RX888/WSPRDaemon extension 2025-2028
+Consolidation of data in UA Server
+Data accessible via API – HAPI support coming soon!
+20 new receivers being deployed this summer
+## Ground station deployment for validation
+Ground measurements have been conducted at WWVH!
+WSPRsonde deployments
+## Test signal updates
+Costas array – under development and testing on ham bands
+## Eclipse Measurements
+April 2024 (Solar Eclipse QSO Party, along-path measurements of CHU)
+October 2024 (South American measurements from WWVH)
+Recent publications in Frontiers!
+2026 eclipse plans
 
