@@ -1,11 +1,10 @@
-# hamsci-wg
-A template repository for creating websites for HamSCI working groups.
+# HamSCI WWV/H Scientific Modulation Working Group
 
-## [Check out the example site here.](https://hamsci.github.io/wwv-h-wg)
+## [Check out the site here.](https://hamsci.github.io/wwv-h-wg)
 
 # How to Use This Repository
 - [X] Create a new repository using this template.
-- [ ] Update docs/_config.yml with information about your working group. You'll need to change where it says "hamsci-wg" to whatever you want the working group's link to be.
+- [X] Update docs/_config.yml with information about your working group. You'll need to change where it says "hamsci-wg" to whatever you want the working group's link to be.
 - [ ] Populate the docs pages. You can edit their titles or add/delete pages as needed; they will appear on the site in filename order.
 - [ ] Edit CITATION.cff file, if you want to be able to cite this repo. If not, delete that file.
 - [ ] [Select a license](https://choosealicense.com/non-software/) and add a LICENSE.txt file.
