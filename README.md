@@ -1,7 +1,7 @@
 # hamsci-wg
 A template repository for creating websites for HamSCI working groups.
 
-## [Check out the example site here.](https://hamsci.github.io/hamsci-wg)
+## [Check out the example site here.](https://hamsci.github.io/wwv-h-wg)
 
 # How to Use This Repository
 - [X] Create a new repository using this template.
