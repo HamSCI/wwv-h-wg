@@ -7,7 +7,7 @@ permalink:
 ---
 
 
-Welcome to our documentation site for the HamSCI WWV/H Scientific Modulation Working Group! Browse the pages linked in the header for information about the project, how to build your own, and how to access data.
+Welcome to our documentation site for the HamSCI WWV/H Scientific Modulation Working Group! Browse the pages linked in the header for more information.
 
 If you have any questions or suggestions, please let us know by [**opening a new issue**](../issues/new). This leaves a public record that can help others. 
 
