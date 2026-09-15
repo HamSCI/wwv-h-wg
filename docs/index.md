@@ -11,7 +11,7 @@ Welcome to our documentation site for the HamSCI WWV/H Scientific Modulation Wor
 
 If you have any questions or suggestions, please let us know by [**opening a new issue**](../issues/new). This leaves a public record that can help others. 
 
-<iframe width="1998" height="822" src="https://www.youtube.com/embed/UVIGS1XvQAY" title="WWV Ionospheric Scientific Modulation Test  | Signal Phantom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="600" src="https://www.youtube.com/embed/UVIGS1XvQAY" title="WWV Ionospheric Scientific Modulation Test  | Signal Phantom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 &nbsp; 
