@@ -9,6 +9,8 @@ mermaid: true
 
 | **Date** | **Video url** | **Topics Discussed** |
 | --- | --- | --- |
+| 15 September 2026 | https://youtu.be/Au8OLljSl34 | Eclipse results, new website, signal design discussion|
+| 16 June 2026 | https://youtu.be/Gmb53jnYfvI | Eclipse plans and CHU closure |
 | 7 April 2026 | https://www.youtube.com/watch?v=uDZ9PczYRfM | Costas arrays and signal update discussion |
 | 2 February 2026 | https://www.youtube.com/watch?v=gb5_GJ8iCfA | AC0G Timing Project |
 | 22 April 2025 | https://www.youtube.com/watch?v=uUyjTuDv_b0 | AB1WN, AC1SN, W0DAS, Costas arrays |
